@@ -3,11 +3,11 @@
 ## Prototypes Alpha Version 
 ## Progress Status :
 * [x] using templates and user interface
-		* Front Interface and assets
+		1. Front Interface and assets
 * [x] Create Database
-		* user login 
-		* User type 
-		* user privillege  
+		1.user login 
+		2. User type 
+		3. user privillege  
 * [ ] Connect Database 
 * [ ] Bug Fixed
 >  Prototypes Websites 
