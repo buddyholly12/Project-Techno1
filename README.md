@@ -2,8 +2,8 @@
 ###### Freelancer_Websites
 ## Prototypes Alpha Version 
 ## Progress Status :
-* [*] using templates and user interface
-* [*] Create Database
+* [x] using templates and user interface
+* [x] Create Database
 * [ ] Connect Database 
 * [ ] Bug Fixed
 >  Prototypes Websites 
